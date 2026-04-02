@@ -1,2 +1,4 @@
 # COSC_241----Computer-Organizations
-This repository represents the labs/projects done within the COSC_241 course. Would include code like RISC-V, and logic circuit understanding that was submissions for projects in the course
+This repository represents the labs/projects done within the COSC_241 course. Would include code like RISC-V, and logic circuit understanding that was submissions for projects in the course. 
+The assembly code would be it's own file when it comes to module_5a and the final_assignment folder since the prompt included the understanding and developing of code using an assembly language RISC-V 
+When it comes to module_3 folder, this portion of the course was dedicated to the understanding of logical circuits and being able to build an ALU circuit that's functional. This ALU circuit in concept would be a part of a fully operating CPU system under the archtiecture developed by Harvard. But with folder, it only involves PDF files that have screenshots of circuits I was building through https://circuitverse.org/. 
